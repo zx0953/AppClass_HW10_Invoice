@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="Month">
+        <item>一 二月</item>
+        <item>三 四月</item>
+        <item>五 六月</item>
+        <item>七 八月</item>
+        <item>九 十月</item>
+        <item>十一 十二月</item>
+    </array>
+    <string-array name="January">
+        <item>21735266</item>
+        <item>91874254</item>
+        <item>56065209</item>
+        <item>05739340</item>
+        <item>69001612</item>
+        <item>591</item>
+        <item>342</item>
+    </string-array>
+    <string-array name="March">
+        <item>12342126</item>
+        <item>80740977</item>
+        <item>36822639</item>
+        <item>38786238</item>
+        <item>87204837</item>
+        <item>991</item>
+        <item>715</item>
+    </string-array>
+    <string-array name="May">
+        <item>20048019</item>
+        <item>02142605</item>
+        <item>21240109</item>
+        <item>78323535</item>
+        <item>18549847</item>
+        <item>706</item>
+        <item>574</item>
+    </string-array>
+    <string-array name="July">
+        <item>73372972</item>
+        <item>22315462</item>
+        <item>91903003</item>
+        <item>16228722</item>
+        <item>03270598</item>
+        <item>163</item>
+        <item>983</item>
+        <item>814</item>
+    </string-array>
+    <string-array name="September">
+        <item>96363025</item>
+        <item>69095110</item>
+        <item>96745865</item>
+        <item>98829035</item>
+        <item>45984442</item>
+        <item>292</item>
+        <item>650</item>
+        <item>230</item>
+    </string-array>
+    <string-array name="November">
+        <item>88515559</item>
+        <item>47551146</item>
+        <item>83513656</item>
+        <item>85250862</item>
+        <item>61472404</item>
+        <item>185</item>
+        <item>079</item>
+        <item>442</item>
+    </string-array>
+</resources>
